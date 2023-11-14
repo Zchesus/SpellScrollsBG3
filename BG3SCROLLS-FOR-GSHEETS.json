@@ -17,643 +17,643 @@
     {
         "Level": "CANTRIPS",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bone_Chill",\"BONE CHILL\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bone_Chill\",\"BONE CHILL\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Firebolt",\"FIREBOLT\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Firebolt\",\"FIREBOLT\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Friends",\"FRIENDS\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Friends\",\"FRIENDS\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Dancing_Lights",\"DANCING LIGHTS\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Dancing_Lights\",\"DANCING LIGHTS\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Light",\"LIGHT\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Light\",\"LIGHT\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Mage_Hand",\"MAGE HAND\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Mage_Hand\",\"MAGE HAND\")"
+    },
     {
         "Level": "CANTRIPS",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Minor_Illusion",\"MINOR ILLUSION\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Minor_Illusion\",\"MINOR ILLUSION\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Poison_Spray",\"POISON SPRAY\")"
-    }, 
-	    {
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Poison_Spray\",\"POISON SPRAY\")"
+    },
+    {
         "Level": "CANTRIPS",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Resistance",\"RESISTANCE\")"
-    },	
-	    {
-        "Level": "CANTRIPS",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ray_of_Frost",\"RAY OF FROST\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Resistance\",\"RESISTANCE\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Shocking_Grasp",\"SHOCKING GRASP\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ray_of_Frost\",\"RAY OF FROST\")"
+    },
+    {
+        "Level": "CANTRIPS",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Shocking_Grasp\",\"SHOCKING GRASP\")"
     },
     {
         "Level": "CANTRIPS",
         "School": "Divination",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/True_Strike",\"TRUE STRIKE\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/True_Strike\",\"TRUE STRIKE\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Enchantment ",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Animal_Friendship",\"ANIMAL FRIENDSHIP\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Animal_Friendship\",\"ANIMAL FRIENDSHIP\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Abjuration ",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Armor_of_Agathys",\"ARMOR OF AGATHYS\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Armor_of_Agathys\",\"ARMOR OF AGATHYS\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bane",\"BANE\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bane\",\"BANE\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bless",\"BLESS\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bless\",\"BLESS\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Burning_Hands",\"BURNING HANDS\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Burning_Hands\",\"BURNING HANDS\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Enchantment ",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Charm_Person",\"CHARM PERSON\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Charm_Person\",\"CHARM PERSON\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Chromatic_Orb",\"CHROMATIC ORB\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Chromatic_Orb\",\"CHROMATIC ORB\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Colour_Spray",\"COLOUR SPRAY\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Colour_Spray\",\"COLOUR SPRAY\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cure_Wounds",\"CURE WOUNDS\")"
-    }, 	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cure_Wounds\",\"CURE WOUNDS\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Disguise_Self",\"DISGUISE SELF\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Disguise_Self\",\"DISGUISE SELF\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Entangle",\"ENTANGLE\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Expeditious_Retreat",\"EXPEDITIOUS RETREAT\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/False_Life",\"FALSE LIFE\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Feather_Fall",\"FEATHER FALL\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Find_Familiar",\"FIND FAMILIAR\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fog_Cloud",\"FOG CLOUD\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Goodberry",\"GOODBERRY\")"
-    },	
-    {
-        "Level": "LEVEL 1",
-        "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Grease",\"GREASE\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Guiding_Bolt",\"GUIDING_BOLT\")"
-    }, 
-	    {
-        "Level": "LEVEL 1",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Healing_Word",\"HEALING WORD\")"
-    }, 	
-	    {
-        "Level": "LEVEL 1",
-        "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ice_Knife",\"ICE KNIFE\")"
-    }, 
-	    {
-        "Level": "LEVEL 1",
-        "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Inflict_Wounds",\"INFLICT WOUNDS\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Entangle\",\"ENTANGLE\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Jump",\"JUMP\")"
-    },
-    {
-        "Level": "LEVEL 1",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Longstrider",\"LONGSTRIDER\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Mage_Armour",\"MAGE ARMOUR\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Magic_Missile",\"MAGIC MISSILE\")"
-    }, 
-    {
-        "Level": "LEVEL 1",
-        "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Protection_from_Evil_and_Good",\"PROTECTION FROM EVIL AND GOOD\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Expeditious_Retreat\",\"EXPEDITIOUS RETREAT\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ray_of_Sickness",\"RAY OF SICKNESS\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/False_Life\",\"FALSE LIFE\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Feather_Fall\",\"FEATHER FALL\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Conjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Find_Familiar\",\"FIND FAMILIAR\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Conjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fog_Cloud\",\"FOG CLOUD\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Goodberry\",\"GOODBERRY\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Conjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Grease\",\"GREASE\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Guiding_Bolt\",\"GUIDING_BOLT\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Healing_Word\",\"HEALING WORD\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Conjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ice_Knife\",\"ICE KNIFE\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Necromancy",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Inflict_Wounds\",\"INFLICT WOUNDS\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Jump\",\"JUMP\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Longstrider\",\"LONGSTRIDER\")"
     },
     {
         "Level": "LEVEL 1",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Shield_of_Faith",\"SHIELD OF FAITH\")"
-    }, 	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Mage_Armour\",\"MAGE ARMOUR\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Magic_Missile\",\"MAGIC MISSILE\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Abjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Protection_from_Evil_and_Good\",\"PROTECTION FROM EVIL AND GOOD\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Necromancy",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ray_of_Sickness\",\"RAY OF SICKNESS\")"
+    },
+    {
+        "Level": "LEVEL 1",
+        "School": "Abjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Shield_of_Faith\",\"SHIELD OF FAITH\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Sleep",\"SLEEP\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Sleep\",\"SLEEP\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Tasha's_Hideous_Laughter",\"TASHA'S HIDEOUS LAUGHTER\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Tasha's_Hideous_Laughter\",\"TASHA'S HIDEOUS LAUGHTER\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Thunderwave",\"THUNDERWAVE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Thunderwave\",\"THUNDERWAVE\")"
+    },
     {
         "Level": "LEVEL 1",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Witch_Bolt",\"WITCH BOLT\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Witch_Bolt\",\"WITCH BOLT\")"
     },
-	    {
-        "Level": "LEVEL 2",
-        "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Aid",\"AID\")"
-    }, 
     {
         "Level": "LEVEL 2",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Arcane_Lock",\"ARCANE LOCK\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Aid\",\"AID\")"
     },
-	{
+    {
+        "Level": "LEVEL 2",
+        "School": "Abjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Arcane_Lock\",\"ARCANE LOCK\")"
+    },
+    {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Barkskin",\"BARKSKIN\")"
-    }, 		
-	{
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Barkskin\",\"BARKSKIN\")"
+    },
+    {
         "Level": "LEVEL 2",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blindness",\"BLINDNESS\")"
-    }, 	
-	    {
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blindness\",\"BLINDNESS\")"
+    },
+    {
         "Level": "LEVEL 2",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blur",\"BLUR\")"
-    }, 
-	    {
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blur\",\"BLUR\")"
+    },
+    {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Darkvision",\"DARKVISION\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Darkvision\",\"DARKVISION\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cloud_of_Daggers",\"CLOUD OF DAGGERS\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cloud_of_Daggers\",\"CLOUD OF DAGGERS\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Enchantment ",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Crown_of_Madness",\"CROWN OF MADNESS\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Crown_of_Madness\",\"CROWN OF MADNESS\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Darkness",\"DARKNESS\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Darkness\",\"DARKNESS\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Darkvision",\"DARKVISION\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Darkvision\",\"DARKVISION\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Divination",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Detect_Thoughts",\"DETECT THOUGHTS\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Detect_Thoughts\",\"DETECT THOUGHTS\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Enlarge_-_Reduce",\"ENLARGE - REDUCE\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Enlarge_-_Reduce\",\"ENLARGE - REDUCE\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Flame_Blade",\"FLAME BLADE\")"
-    }, 	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Flame_Blade\",\"FLAME BLADE\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Flaming_Sphere",\"FLAMING SPHERE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Flaming_Sphere\",\"FLAMING SPHERE\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Gust_of_Wind",\"GUST OF WIND\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Gust_of_Wind\",\"GUST OF WIND\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Heat_Metal",\"HEAT METAL\")"
-    }, 	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Heat_Metal\",\"HEAT METAL\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Hold_Person",\"HOLD PERSON\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Hold_Person\",\"HOLD PERSON\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Invisibility",\"INVISIBILITY\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Invisibility\",\"INVISIBILITY\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Knock",\"KNOCK\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Knock\",\"KNOCK\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Lesser_Restoration",\"LESSER RESTORATION\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Lesser_Restoration\",\"LESSER RESTORATION\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Magic_Weapon",\"MAGIC WEAPON\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Magic_Weapon\",\"MAGIC WEAPON\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Melf's_Acid_Arrow",\"MELF'S ACID ARROW\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Melf's_Acid_Arrow\",\"MELF'S ACID ARROW\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Mirror_Image",\"MIRROR IMAGE\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Mirror_Image\",\"MIRROR IMAGE\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Misty_Step",\"MISTY STEP\")"
-    }, 
-    {
-        "Level": "LEVEL 2",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Moonbeam",\"MOONBEAM\")"
-    }, 	
-    {
-        "Level": "LEVEL 2",
-        "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Phantasmal_Force",\"PHANTASMAL FORCE\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Misty_Step\",\"MISTY STEP\")"
     },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Prayer_of_Healing",\"PRAYER OF HEALING\")"
-    },  	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Moonbeam\",\"MOONBEAM\")"
+    },
+    {
+        "Level": "LEVEL 2",
+        "School": "Illusion",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Phantasmal_Force\",\"PHANTASMAL FORCE\")"
+    },
+    {
+        "Level": "LEVEL 2",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Prayer_of_Healing\",\"PRAYER OF HEALING\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Protection_from_Poison",\"PROTECTION FROM POISON\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Protection_from_Poison\",\"PROTECTION FROM POISON\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ray_of_Enfeeblement",\"RAY OF ENFEEBLEMENT\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ray_of_Enfeeblement\",\"RAY OF ENFEEBLEMENT\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Divination",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/See_Invisibility",\"SEE INVISIBILITY\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/See_Invisibility\",\"SEE INVISIBILITY\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Scorching_Ray",\"SCORCHING RAY\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Scorching_Ray\",\"SCORCHING RAY\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Shatter",\"SHATTER\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Shatter\",\"SHATTER\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Spike_Growth",\"SPIKE GROWTH\")"
-    }	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Spike_Growth\",\"SPIKE GROWTH\")"
+    },
     {
         "Level": "LEVEL 2",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Web",\"WEB\")"
-    }
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Web\",\"WEB\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Animate_Dead",\"ANIMATE DEAD\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Animate_Dead\",\"ANIMATE DEAD\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bestow_curse",\"BESTOW CURSE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Bestow_curse\",\"BESTOW CURSE\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blink",\"BLINK\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blink\",\"BLINK\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Counterspell",\"COUNTERSPELL\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Counterspell\",\"COUNTERSPELL\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fear",\"FEAR\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Feign_Death",\"FEIGN DEATH\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fireball",\"FIREBALL\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fly",\"FLY\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Gaseous_Form",\"GASEOUS FORM\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Glyph_of_Warding",\"GLYPH OF WARDING\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Haste",\"HASTE\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Hypnotic_Pattern",\"HYPNOTIC PATTERN\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Lightning_Bolt",\"LIGHTNING BOLT\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Protection_from_Energy",\"PROTECTION FROM ENERGY\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Remove_Curse",\"REMOVE CURSE\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Sleet_Storm",\"SLEET STORM\")"
-    }, 
-    {
-        "Level": "LEVEL 3",
-        "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Slow",\"SLOW\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fear\",\"FEAR\")"
     },
     {
         "Level": "LEVEL 3",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Speak_with_Dead",\"SPEAK WITH DEAD\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Feign_Death\",\"FEIGN DEATH\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fireball\",\"FIREBALL\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Fly\",\"FLY\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Gaseous_Form\",\"GASEOUS FORM\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Abjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Glyph_of_Warding\",\"GLYPH OF WARDING\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Haste\",\"HASTE\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Stinking_Cloud",\"STINKING CLOUD\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Hypnotic_Pattern\",\"HYPNOTIC PATTERN\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Evocation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Lightning_Bolt\",\"LIGHTNING BOLT\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Abjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Protection_from_Energy\",\"PROTECTION FROM ENERGY\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Abjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Remove_Curse\",\"REMOVE CURSE\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Conjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Sleet_Storm\",\"SLEET STORM\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Transmutation",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Slow\",\"SLOW\")"
+    },
     {
         "Level": "LEVEL 3",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Vampiric_Touch",\"VAMPIRIC TOUCH\")"
-    }
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Speak_with_Dead\",\"SPEAK WITH DEAD\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Conjuration",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Stinking_Cloud\",\"STINKING CLOUD\")"
+    },
+    {
+        "Level": "LEVEL 3",
+        "School": "Necromancy",
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Vampiric_Touch\",\"VAMPIRIC TOUCH\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Confusion",\"CONFUSION\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Confusion\",\"CONFUSION\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Conjure_Minor_Elemental",\"CONJURE MINOR ELEMENTAL\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Conjure_Minor_Elemental\",\"CONJURE MINOR ELEMENTAL\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Dimension_Door",\"DIMENSION DOOR\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Dimension_Door\",\"DIMENSION DOOR\")"
     },
     {
         "Level": "LEVEL 4",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Greater_Invisibility",\"GREATER INVISIBILITY\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Greater_Invisibility\",\"GREATER INVISIBILITY\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ice_Storm",\"ICE STORM\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Ice_Storm\",\"ICE STORM\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Polymorph",\"POLYMORPH\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Polymorph\",\"POLYMORPH\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Stoneskin",\"STONESKIN\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Stoneskin\",\"STONESKIN\")"
+    },
     {
         "Level": "LEVEL 4",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Wall_of_Fire",\"WALL OF FIRE\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Wall_of_Fire\",\"WALL OF FIRE\")"
     },
     {
         "Level": "LEVEL 5",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Artristry_of_War",\"ARTISTRY OF WAR\")"
-    },	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Artristry_of_War\",\"ARTISTRY OF WAR\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cloudkill",\"CLOUDKILL\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cloudkill\",\"CLOUDKILL\")"
     },
     {
         "Level": "LEVEL 5",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cone_of_Cold",\"CONE OF COLD\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Cone_of_Cold\",\"CONE OF COLD\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Conjure_Elemental",\"CONJURE ELEMENTAL\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Conjure_Elemental\",\"CONJURE ELEMENTAL\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Dominate_Person",\"DOMINATE PERSON\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Dominate_Person\",\"DOMINATE PERSON\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Enchantment",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Hold_Monster",\"HOLD MONSTER\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Hold_Monster\",\"HOLD MONSTER\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Planar_Binding",\"PLANAR BINDING\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Planar_Binding\",\"PLANAR BINDING\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Illusion",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Seeming",\"SEEMING\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Seeming\",\"SEEMING\")"
     },
     {
         "Level": "LEVEL 5",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Sights_of_the_Seelie:_Summon_Deva",\"SUMMON DEVA - BESTIAL COMMUNION\")"
-    }, 	
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Sights_of_the_Seelie:_Summon_Deva\",\"SUMMON DEVA - BESTIAL COMMUNION\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Telekinesis",\"TELEKINESIS\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Telekinesis\",\"TELEKINESIS\")"
+    },
     {
         "Level": "LEVEL 5",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Wall_of_Stone",\"WALL OF STONE\")"
-    }
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Wall_of_Stone\",\"WALL OF STONE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Conjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Arcane_Gate",\"ARCANE GATE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Arcane_Gate\",\"ARCANE GATE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Chain_Lightning",\"CHAIN LIGHTNING\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Chain_Lightning\",\"CHAIN LIGHTNING\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Circle_of_Death",\"CIRCLE OF DEATH\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Circle_of_Death\",\"CIRCLE OF DEATH\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Create_Undead",\"CREATE UNDEAD\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Create_Undead\",\"CREATE UNDEAD\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Disintegrate",\"DISINTEGRATE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Disintegrate\",\"DISINTEGRATE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Necromancy",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Eyebite",\"EYEBITE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Eyebite\",\"EYEBITE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Transmutation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Flesh_to_Stone",\"FLESH TO STONE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Flesh_to_Stone\",\"FLESH TO STONE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Globe_of_Invulnerability",\"GLOBE OF INVULNERABILITY\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Globe_of_Invulnerability\",\"GLOBE OF INVULNERABILITY\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Evocation",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Otiluke's_Freezing_Sphere",\"OTILUKE'S FREEZING SPHERE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Otiluke's_Freezing_Sphere\",\"OTILUKE'S FREEZING SPHERE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Enchantment ",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Otto's_Irresistible_Dance",\"OTTO'S IRRESISTIBLE DANCE\")"
-    }, 
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Otto's_Irresistible_Dance\",\"OTTO'S IRRESISTIBLE DANCE\")"
+    },
     {
         "Level": "LEVEL 6",
         "School": "Evocation",
@@ -665,4 +665,3 @@
         "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Wall_of_Ice\",\"WALL OF ICE\")"
     }
 ]
-
