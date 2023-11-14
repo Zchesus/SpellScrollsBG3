@@ -2,10 +2,10 @@
     {
         "Level": "CANTRIPS",
         "School": "Abjuration",
-        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blade_of_Ward\",\"BLADE WARD\")"
+        "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Blade_Ward\",\"BLADE WARD\")"
     },
     {
-        "Level": "Acid Splash",
+        "Level": "CANTRIPS",
         "School": "Conjuration",
         "Name": "=HYPERLINK(\"https://bg3.wiki/wiki/Acid_Splash\",\"ACID SPLASH\")"
     },
